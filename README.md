@@ -1,7 +1,7 @@
 
 # First you need to install
 
-npx react-native@latest (projectname)
+npx react-native@latest init (projectname)
 
 # then install these all dependency in your project
 
@@ -9,6 +9,8 @@ npm install @react-navigation/native
 npm install react-native-screens react-native-safe-area-context
 npm install @react-navigation/stack
 npm install react-native-gesture-handler
+
+also install axios if needed 
 
 # and then use my given component
 1.Products.js
