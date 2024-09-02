@@ -2,6 +2,11 @@
 # First you need to install
 
 npx react-native@latest init (projectname)
+# open your project on vs code
+run cammand for android 
+- npx react-native run-android
+
+make sure your emulator is opened
 
 # then install these all dependency in your project
 
